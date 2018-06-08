@@ -1,5 +1,5 @@
 ### Who gets affected by GDPR?
-The GDPR applies to all organizations located within a country part of the EEA and outside of the EU if they also collect store or process EU citizen and residents personal data.
+The GDPR applies to all organizations located within a country part of the EEA and outside of the EU if they also collect, store or process EU citizen and residents personal data.
 
 ### European Country list where GDPR applies
 
